@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Kavi!
+# 👋 Hey there, I'm Vamshi!
 
 ## 💪 Join Me!
 I'm currently taking on the #advancedDSA challenge, focusing on mastering data structures and algorithms from beginner to advanced.
